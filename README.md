@@ -24,24 +24,24 @@
 # LAB4_PYTHON
 Pattern based Questions.
 1.	Write a program to print the following pattern:-
- Pattern #1: Simple Number Triangle Pattern
- Pattern #2: Inverted Pyramid of Numbers
- Pattern #3: Half Pyramid Pattern of Numbers
- Pattern #4: Inverted Pyramid of Descending Numbers
- Pattern #5: Inverted Pyramid of the Same Digit
- Pattern #6: Reverse Pyramid of Numbers
- Pattern #7: Inverted Half Pyramid Number Pattern
- Pattern #8: Pyramid of Natural Numbers Less Than 10
- Pattern #9: Reverse Pattern of Digits from 10
- Pattern #10: Unique Pyramid Pattern of Digits
- Pattern #11: Connected Inverted Pyramid Pattern of Numbers
- Pattern #12: Even Number Pyramid Pattern
- Pattern #13: Pyramid of Horizontal Tables
- Pattern #14: Pyramid Pattern of Alternate Numbers
- Pattern #15: Mirrored Pyramid (Right-angled Triangle) Pattern of Numbers
- Pattern #16: Equilateral Triangle with Stars (Asterisk Symbol)
- Pattern #17: Downward Triangle Pattern of Stars
- Pattern #18: Pyramid Pattern of Stars
+ Pattern #1: Simple Number Triangle Pattern;
+ Pattern #2: Inverted Pyramid of Numbers;
+ Pattern #3: Half Pyramid Pattern of Numbers;
+ Pattern #4: Inverted Pyramid of Descending Numbers;
+ Pattern #5: Inverted Pyramid of the Same Digit;
+ Pattern #6: Reverse Pyramid of Numbers;
+ Pattern #7: Inverted Half Pyramid Number Pattern;
+ Pattern #8: Pyramid of Natural Numbers Less Than 10;
+ Pattern #9: Reverse Pattern of Digits from 10;
+ Pattern #10: Unique Pyramid Pattern of Digits;
+ Pattern #11: Connected Inverted Pyramid Pattern of Numbers;
+ Pattern #12: Even Number Pyramid Pattern;
+ Pattern #13: Pyramid of Horizontal Tables;
+ Pattern #14: Pyramid Pattern of Alternate Numbers;
+ Pattern #15: Mirrored Pyramid (Right-angled Triangle) Pattern of Numbers;
+ Pattern #16: Equilateral Triangle with Stars (Asterisk Symbol);
+ Pattern #17: Downward Triangle Pattern of Stars;
+ Pattern #18: Pyramid Pattern of Stars;
 STRING:-
 2.	Write a program to do the following
   A. To separate the following string into comma (,) separated values. X= “ India.is.my.country”
