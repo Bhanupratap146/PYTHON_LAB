@@ -77,3 +77,12 @@ Map and reduce functions
  1. WAP to create a class to set and get a password of private type.
  2. WAR to create a class to update marks of students that demonstrate protected members of the class.
  3. WAP to create a class to set and get details of employees that demonstrate public, private, and protected functions of a class.
+
+# LAB7_PYTHON
+ 1.Implement the bubble sort algo using classes and methods
+ 2.Implement the insertion sort using Python
+ 3.Implement the selection sort using Python
+ 4.Implement the merge sort or quick sort
+ 5.Implement the linear search algorithm using python
+ 6.Implement the binary search using Python (Element should be sorted)
+ 7.Implement the binary tree using python
